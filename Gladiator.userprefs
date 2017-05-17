@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/collisonBoom.cs">
+    <Files>
+      <File FileName="Assets/Scripts/collisonBoom.cs" Line="19" Column="36" />
+      <File FileName="Assets/Scripts/PressSpaceToShoot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Playercontrol.cs" Line="32" Column="53" />
+      <File FileName="Assets/Scripts/Crowdcheer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BasicAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PhysicsMove.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
